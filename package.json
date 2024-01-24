@@ -1,0 +1,12 @@
+{
+  "name": "quiz-html",
+  "version": "1.0.0",
+  "description": "A little quiz of HTML",
+  "main": "quizee.js",
+  "type": "module",
+  "author": "Bléza PLEGNON",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
